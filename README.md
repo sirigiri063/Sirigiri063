@@ -19,7 +19,7 @@ Clean communication — I turn complex analyses into concise, visual stories for
 I'm actively looking for Business Analyst / Data Analyst roles where I can help organisations make faster, smarter decisions with their data.
 
 🛠️ Technical Skills
-CategoryToolsData AnalysisSQL (PostgreSQL), Microsoft ExcelVisualisationPower BI (DAX, Power Query, Data Modelling)Data PreparationExcel (VLOOKUP, Pivot Tables, Conditional Formatting)WorkflowEnd-to-end BA projects: data cleaning → analysis → insight → dashboard
+CategoryTools - Data AnalysisSQL (PostgreSQL), Microsoft ExcelVisualisationPower BI (DAX, Power Query, Data Modelling)Data PreparationExcel (VLOOKUP, Pivot Tables, Conditional Formatting)WorkflowEnd-to-end BA projects: data cleaning → analysis → insight → dashboard
 
 📂 Featured Projects
 🏪 Superstore Sales & Profit Dashboard
