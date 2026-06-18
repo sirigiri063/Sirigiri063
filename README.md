@@ -582,7 +582,7 @@ Open To:
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-sirigiri063%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirigiri063@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-sirigiri.063%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirigiri063@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sirigiri%20Malakonda%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirigiri03/)
 [![GitHub](https://img.shields.io/badge/GitHub-@sirigiri063-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sirigiri063)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://sirigiri063.github.io)
